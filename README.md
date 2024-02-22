@@ -1,9 +1,9 @@
-    Welcome to my e-portfolio!
+Welcome to my e-portfolio!
 
     Skylar York
 
-    Computer Science Major
+Computer Science Major
 
-    Bachelor of Science in Cybersecurity
+Bachelor of Science in Cybersecurity
 
-    "With great power comes great responsibility" - Stan Lee
+"With great power comes great responsibility" - Stan Lee
