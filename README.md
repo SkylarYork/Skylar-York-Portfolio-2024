@@ -1,4 +1,4 @@
-																																		Welcome to my e-portfolio!
+																													Welcome to my e-portfolio!
 
 																																			Skylar York
 
