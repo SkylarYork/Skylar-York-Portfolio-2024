@@ -1,6 +1,6 @@
 Welcome to my e-portfolio!
 
-    Skylar York
+Skylar York
 
 Computer Science Major
 
