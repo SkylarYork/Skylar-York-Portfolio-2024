@@ -1,5 +1,5 @@
 <p align="center">
-**Welcome to my e-Portfolio!** <br> <br>
+Welcome to my e-Portfolio! <br> <br>
 Skylar York <br> <br>
 Computer Science Major <br> <br>
 Bachelor of Science in Cybersecurity <br> <br>
